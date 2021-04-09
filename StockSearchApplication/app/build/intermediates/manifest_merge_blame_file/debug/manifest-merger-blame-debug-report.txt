@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.sjsu.android.stocksearch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:8:5-34:19
+15        android:allowBackup="false"
+15-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:9:9-36
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ae3468b444d41a56f261ecbb8448fe17/core-1.3.1/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="false"
+19-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:10:9-42
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:15:9-40
+26        <activity android:name="edu.sjsu.android.stocksearch.MainActivity" >
+26-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:16:9-22:20
+26-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:16:19-47
+27            <intent-filter>
+27-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:18:17-69
+28-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:20:17-77
+30-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:24:9-26:20
+34            android:name="edu.sjsu.android.stocksearch.StockDetail"
+34-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:24:19-46
+35            android:parentActivityName="edu.sjsu.android.stocksearch.MainActivity" >
+35-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:25:13-55
+36        </activity>
+37
+38        <service android:name="edu.sjsu.android.stocksearch.StockInfoService" />
+38-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:28:9-52
+38-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:28:18-50
+39        <service android:name="edu.sjsu.android.stocksearch.CompanyDescriptionInfoService" />
+39-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:29:9-65
+39-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:29:18-63
+40        <service android:name="edu.sjsu.android.stocksearch.CurrentStockPriceService" />
+40-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:30:9-61
+40-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:30:18-58
+41        <service android:name="edu.sjsu.android.stocksearch.HistoricalDataService" />
+41-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:31:9-58
+41-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:31:18-55
+42        <service android:name="edu.sjsu.android.stocksearch.MarketCapIntentService" />
+42-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:32:9-59
+42-->/Users/shuangpan/AndroidStudioProjects/StockSearchApplication/app/src/main/AndroidManifest.xml:32:18-56
+43    </application>
+44
+45</manifest>

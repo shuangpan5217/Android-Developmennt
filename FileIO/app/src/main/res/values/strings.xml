@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileIO</string>
+    <string name="read_write">Read/Write File</string>
+    <string name="file_name">File Name</string>
+    <string name="file_text">File Text</string>
+    <string name="write_file">WRITE FILE</string>
+    <string name="read_file">READ FILE</string>
+</resources>

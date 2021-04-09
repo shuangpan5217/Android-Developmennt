@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Callingbuiltinapp</string>
+    <string name="make_call">Make call</string>
+    <string name="web_browser">Web Browser</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="download">Download</string>
+    <string name="status">Status: </string>
+    <string name="not_started">Not started</string>
+</resources>

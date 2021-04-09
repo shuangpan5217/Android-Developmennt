@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivityLoaderActivity</string>
+    <string name="web_browser">Web Browser</string>
+    <string name="make_call">Make Calls</string>
+    <string name="call">Make Call</string>
+</resources>

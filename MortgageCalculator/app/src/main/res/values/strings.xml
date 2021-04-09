@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="amount_bro">Amount</string>
+    <string name="abLabel">"Amount borrowed:"</string>
+    <string name="IR">Interest Rate: </string>
+    <string name="LT">Loan Term</string>
+    <string name="TI">Taxes and Insurance</string>
+    <string name="fifteen">15</string>
+    <string name="twenty">20</string>
+    <string name="thirty">30</string>
+    <string name="calc">Calculate</string>
+    <string name="Result">Monthly Payment: </string>
+    <string name="MP">0.0</string>
+    <string name="IR_number">10.0</string>
+</resources>

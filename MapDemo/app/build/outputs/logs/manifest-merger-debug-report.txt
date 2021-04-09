@@ -1,0 +1,1070 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a14105437c28665c85d041980d4b9c2a/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3650ec8bf0dcc8ccaa9d86d2cec22c9f/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4a8d9fc7497257d3eea1abab609049a/jetified-play-services-12.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/482e594264ff39595e95df645d7177dd/jetified-play-services-cast-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/77edcd2496df4ed958bccc8cbce10754/mediarouter-1.0.0-alpha5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be6327719512c19af6e3dfcc948c3a09/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5f96ecad8d85f531f78d30240d597c0f/jetified-play-services-ads-12.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1c90e9da5765c388c5f568664246206e/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/26eb95a4fc091e00cdb4bced7ab5f555/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/578c5472239c06279cc0be6c610320b5/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/fe0d271e4b17a9e967722c956db4b4ce/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b9d97636f00495e1d50d8f368f85c06c/jetified-firebase-config-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0c6138ad6fcbdbafc9fcddc814e806eb/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e80b8e64c867e1df103b751ba820433b/jetified-play-services-games-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/286ec7e5a44c505253cbe8d75be4a6aa/jetified-play-services-drive-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f60f066c77498424681d75d7dd781ac9/jetified-play-services-fido-12.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a97ba8d2d79569ee2682d64bb0d70aeb/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ae4773bd7af16468b47f6928c90e4473/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/46601fde9a4dbf63d5eef02dba2afc66/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4ef29f05697ced154def49b131ed3d17/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/34ef277219ad37ea6c0d7e014585708d/jetified-play-services-identity-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4a2f1abbd97892e016f5050368b2ab62/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5fca1c0f1f369c94569bd7f788aa5c65/jetified-play-services-location-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d6cd0d04a3b0fd0832e6501c32e4269a/jetified-play-services-places-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/66518e42feabc1223926e950d50c8cac/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f6fa462fc8f159ea58a9bdc5dbe1b236/jetified-play-services-plus-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7fc160e01a1c107434eeba8bab364217/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b13ea7523dc9e84319d8a770e7f760e6/jetified-play-services-vision-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0d4267eb53093ef64eeb2015fb3a07a1/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a0497a81403b8b3430adf247d510f1f/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0761e657e80e7ce1b855367fa55330dc/jetified-firebase-database-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ca90cd9ef25d7acee3b1653dbd74c84c/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/004e315da9c779e955e60cff7f4e661a/jetified-firebase-storage-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4ff8f25d3ead3dc13cc7fe69012f22fb/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f23e41387a6305ea5302243c00a4c19b/jetified-play-services-gass-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/496362d66499aff289319fb91894a9fc/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f2bebeca849b3c1fc0bf348a9d3c5482/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/57941165eb45b5056999638e010b182f/recyclerview-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/96f63f4306f0fc56c140d73176dc3310/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dee56812972f65c48f33f011a0d23568/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e66fdbb8aadd34180980691833492b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/08aad4ca8852cd8ade9fc95f553f0f72/palette-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/78ecae9c2f22493c6a91e24a1a2d4820/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd02317c23e662d0fa4ab88d0d0916d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/10fcddba391b31bd86d702ee5aeb2035/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2833ccf74467ed201bb9e8973fbcecdb/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a22b9bda8912dc5b60b669716d09acf1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8f5491109a096d1303429a23551cdf50/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1352209ffe6d7d5b9f9bddb35648d9f5/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/54972eed75d5a0ae7261aba7ffc821e2/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/93091c25d5713cca58ce2e2ecdac42b4/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/395caf503a19363977c06465a7c114a5/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f21ecb78568f62b9cfdf7ce8b84f47c1/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/054204406b27658dc74d8b19f547bed5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6e0bbf23856e3e10e3514a4e9cc95fa1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6a6af4ea2fadaa66c773f3ffe79910a7/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/abfb1986835d7863ad588927944dd5ef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/88958e78a03a39da36d379d2c8b6a4b0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69cec304f6f93988bc61590e41b76c7a/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/85d7d375805835315d32868681799c7f/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b5f0cd7358534287e1185d5c23885344/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52f3c377a4b69341a37326e040da9d22/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e0385bf69412b0fd2b98f32f2bf58140/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cf710c486307a9e618e093e5dc47c585/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4af59dab4eee59f36ceae83cd2649258/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a3453ebd6e237a41391e775e2c9f572/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9c1b62603e7cbe3d3343236d07c67d22/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6c159ea9dcd38289afa0f2ab81b30d54/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/161180bc3e377750d0db2f3902c1a204/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3973b822319074ab89b7d95ad71eb6ba/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5749ad77f2bf083f9f80a0bf74aad4c2/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5df141bd37f02a6bc1c13ab0823af174/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/db3dba1d0128985fd5548afddb89b003/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be327228a71e2fb1205900d66556b519/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d611674a4439cf7d022ef8a36029a9f0/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69b148e08770714baf9bebb0dde766d5/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/822f0a90a03298addbe1c6753b752bee/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5a66a25bf3b57bde587f6ccb091db63f/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/79afbf59e162243652f3e5de6c0caaa4/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d73603f0f5a6266b403311d088487de8/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bfa6652a68082d0fc2d621b35cf4ff72/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4cd5c087c421aa24646fba1df8c5d17b/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/40f8655b341380c7a1a8cce2c9338fdc/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0a84e31e032eb1f6e237e09f210ea7ef/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7978b726644f8af6a955357bdee92b2a/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e2fc0552c98eb608f63432d90fbcda88/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4de5cd8237f11589a6a2e21930831eb/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9631ee3821f5fe5efbdeeb5204d24d5b/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/eecd0422b679e1e56c8c015702deddd1/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/815c1656404324a8712b529fbfcccef7/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52371c0695e1921305ed52b15c776253/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c821722599bcf5953e8724a3749ae248/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d51e75bf445449c059dcdb68f9cbf631/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0fe0c71926d69df5b086cb9331a3300c/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d0f145acb7e6d811028d4e49e8ea6759/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ce6e913fd2f77d83aa9ef9747230502b/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3c40ad944d6b275796b981cff87725a8/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cede4390d121398ab4b8b92b5684521e/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8336008f2029ccd4b9b45f5af4ea83e2/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8b8006d12923e71a127697f544fb82a0/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e7e6fd075773e0498f8551c54b93782/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ee1264a3b2c2bfc111949a595c2ebf89/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6ef082605c4da700992685cb3792b05f/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3391296b6bd2f6d29a8e90560e3c87af/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/17c5fc1a25cb3f9580033b0b261337b5/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9bbecc07fcfe86d48b956f112f6bb415/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/df5536bc338fdd8fe5205a197b2c061c/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b298c1573b58f70630e2a2357398b064/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:2:11-69
+permission#edu.sjsu.android.mapdemo.permission.MAP_RECEIVE
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:6:9-71
+uses-permission#edu.sjsu.android.mapdemo.permission.MAP_RECEIVE
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:9:5-87
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:9:22-84
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:15:22-78
+uses-feature#0x00020000
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:17:5-19:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:18:9-41
+	android:required
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:19:9-32
+application
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:21:5-50:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3650ec8bf0dcc8ccaa9d86d2cec22c9f/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3650ec8bf0dcc8ccaa9d86d2cec22c9f/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4a8d9fc7497257d3eea1abab609049a/jetified-play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4a8d9fc7497257d3eea1abab609049a/jetified-play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/482e594264ff39595e95df645d7177dd/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/482e594264ff39595e95df645d7177dd/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/26eb95a4fc091e00cdb4bced7ab5f555/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/26eb95a4fc091e00cdb4bced7ab5f555/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b9d97636f00495e1d50d8f368f85c06c/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b9d97636f00495e1d50d8f368f85c06c/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0c6138ad6fcbdbafc9fcddc814e806eb/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0c6138ad6fcbdbafc9fcddc814e806eb/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e80b8e64c867e1df103b751ba820433b/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e80b8e64c867e1df103b751ba820433b/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/286ec7e5a44c505253cbe8d75be4a6aa/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/286ec7e5a44c505253cbe8d75be4a6aa/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f60f066c77498424681d75d7dd781ac9/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f60f066c77498424681d75d7dd781ac9/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a97ba8d2d79569ee2682d64bb0d70aeb/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a97ba8d2d79569ee2682d64bb0d70aeb/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ae4773bd7af16468b47f6928c90e4473/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ae4773bd7af16468b47f6928c90e4473/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/46601fde9a4dbf63d5eef02dba2afc66/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/46601fde9a4dbf63d5eef02dba2afc66/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/34ef277219ad37ea6c0d7e014585708d/jetified-play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/34ef277219ad37ea6c0d7e014585708d/jetified-play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5fca1c0f1f369c94569bd7f788aa5c65/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5fca1c0f1f369c94569bd7f788aa5c65/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d6cd0d04a3b0fd0832e6501c32e4269a/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d6cd0d04a3b0fd0832e6501c32e4269a/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/66518e42feabc1223926e950d50c8cac/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/66518e42feabc1223926e950d50c8cac/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f6fa462fc8f159ea58a9bdc5dbe1b236/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f6fa462fc8f159ea58a9bdc5dbe1b236/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7fc160e01a1c107434eeba8bab364217/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7fc160e01a1c107434eeba8bab364217/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b13ea7523dc9e84319d8a770e7f760e6/jetified-play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b13ea7523dc9e84319d8a770e7f760e6/jetified-play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0d4267eb53093ef64eeb2015fb3a07a1/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0d4267eb53093ef64eeb2015fb3a07a1/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a0497a81403b8b3430adf247d510f1f/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a0497a81403b8b3430adf247d510f1f/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f23e41387a6305ea5302243c00a4c19b/jetified-play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f23e41387a6305ea5302243c00a4c19b/jetified-play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/496362d66499aff289319fb91894a9fc/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/496362d66499aff289319fb91894a9fc/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/395caf503a19363977c06465a7c114a5/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/395caf503a19363977c06465a7c114a5/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f21ecb78568f62b9cfdf7ce8b84f47c1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f21ecb78568f62b9cfdf7ce8b84f47c1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69cec304f6f93988bc61590e41b76c7a/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69cec304f6f93988bc61590e41b76c7a/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/85d7d375805835315d32868681799c7f/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/85d7d375805835315d32868681799c7f/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b5f0cd7358534287e1185d5c23885344/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b5f0cd7358534287e1185d5c23885344/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52f3c377a4b69341a37326e040da9d22/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52f3c377a4b69341a37326e040da9d22/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e0385bf69412b0fd2b98f32f2bf58140/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e0385bf69412b0fd2b98f32f2bf58140/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cf710c486307a9e618e093e5dc47c585/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cf710c486307a9e618e093e5dc47c585/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4af59dab4eee59f36ceae83cd2649258/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4af59dab4eee59f36ceae83cd2649258/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a3453ebd6e237a41391e775e2c9f572/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a3453ebd6e237a41391e775e2c9f572/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9c1b62603e7cbe3d3343236d07c67d22/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9c1b62603e7cbe3d3343236d07c67d22/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6c159ea9dcd38289afa0f2ab81b30d54/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6c159ea9dcd38289afa0f2ab81b30d54/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/161180bc3e377750d0db2f3902c1a204/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/161180bc3e377750d0db2f3902c1a204/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3973b822319074ab89b7d95ad71eb6ba/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3973b822319074ab89b7d95ad71eb6ba/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5749ad77f2bf083f9f80a0bf74aad4c2/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5749ad77f2bf083f9f80a0bf74aad4c2/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5df141bd37f02a6bc1c13ab0823af174/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5df141bd37f02a6bc1c13ab0823af174/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/db3dba1d0128985fd5548afddb89b003/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/db3dba1d0128985fd5548afddb89b003/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be327228a71e2fb1205900d66556b519/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be327228a71e2fb1205900d66556b519/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d611674a4439cf7d022ef8a36029a9f0/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d611674a4439cf7d022ef8a36029a9f0/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69b148e08770714baf9bebb0dde766d5/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69b148e08770714baf9bebb0dde766d5/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/822f0a90a03298addbe1c6753b752bee/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/822f0a90a03298addbe1c6753b752bee/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5a66a25bf3b57bde587f6ccb091db63f/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5a66a25bf3b57bde587f6ccb091db63f/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/79afbf59e162243652f3e5de6c0caaa4/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/79afbf59e162243652f3e5de6c0caaa4/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d73603f0f5a6266b403311d088487de8/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d73603f0f5a6266b403311d088487de8/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bfa6652a68082d0fc2d621b35cf4ff72/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bfa6652a68082d0fc2d621b35cf4ff72/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4cd5c087c421aa24646fba1df8c5d17b/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4cd5c087c421aa24646fba1df8c5d17b/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/40f8655b341380c7a1a8cce2c9338fdc/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/40f8655b341380c7a1a8cce2c9338fdc/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0a84e31e032eb1f6e237e09f210ea7ef/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0a84e31e032eb1f6e237e09f210ea7ef/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7978b726644f8af6a955357bdee92b2a/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7978b726644f8af6a955357bdee92b2a/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e2fc0552c98eb608f63432d90fbcda88/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e2fc0552c98eb608f63432d90fbcda88/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4de5cd8237f11589a6a2e21930831eb/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4de5cd8237f11589a6a2e21930831eb/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9631ee3821f5fe5efbdeeb5204d24d5b/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9631ee3821f5fe5efbdeeb5204d24d5b/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/eecd0422b679e1e56c8c015702deddd1/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/eecd0422b679e1e56c8c015702deddd1/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/815c1656404324a8712b529fbfcccef7/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/815c1656404324a8712b529fbfcccef7/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52371c0695e1921305ed52b15c776253/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52371c0695e1921305ed52b15c776253/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c821722599bcf5953e8724a3749ae248/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c821722599bcf5953e8724a3749ae248/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d51e75bf445449c059dcdb68f9cbf631/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d51e75bf445449c059dcdb68f9cbf631/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0fe0c71926d69df5b086cb9331a3300c/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0fe0c71926d69df5b086cb9331a3300c/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d0f145acb7e6d811028d4e49e8ea6759/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d0f145acb7e6d811028d4e49e8ea6759/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ce6e913fd2f77d83aa9ef9747230502b/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ce6e913fd2f77d83aa9ef9747230502b/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3c40ad944d6b275796b981cff87725a8/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3c40ad944d6b275796b981cff87725a8/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cede4390d121398ab4b8b92b5684521e/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cede4390d121398ab4b8b92b5684521e/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8336008f2029ccd4b9b45f5af4ea83e2/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8336008f2029ccd4b9b45f5af4ea83e2/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8b8006d12923e71a127697f544fb82a0/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8b8006d12923e71a127697f544fb82a0/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e7e6fd075773e0498f8551c54b93782/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e7e6fd075773e0498f8551c54b93782/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ee1264a3b2c2bfc111949a595c2ebf89/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ee1264a3b2c2bfc111949a595c2ebf89/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6ef082605c4da700992685cb3792b05f/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6ef082605c4da700992685cb3792b05f/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3391296b6bd2f6d29a8e90560e3c87af/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3391296b6bd2f6d29a8e90560e3c87af/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/17c5fc1a25cb3f9580033b0b261337b5/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/17c5fc1a25cb3f9580033b0b261337b5/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9bbecc07fcfe86d48b956f112f6bb415/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9bbecc07fcfe86d48b956f112f6bb415/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/df5536bc338fdd8fe5205a197b2c061c/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/df5536bc338fdd8fe5205a197b2c061c/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b298c1573b58f70630e2a2357398b064/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b298c1573b58f70630e2a2357398b064/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/395caf503a19363977c06465a7c114a5/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:27:9-40
+activity#edu.sjsu.android.mapdemo.MainActivity
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:32:27-74
+meta-data#com.google.android.gms.version
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:37:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:39:9-41:55
+	android:value
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:40:13-62
+uses-library#org.apache.http.legacy
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:42:9-44:40
+	android:required
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:43:13-50
+provider#edu.sjsu.android.mapdemo.LocationContentProvider
+ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:46:9-49:40
+	android:authorities
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:48:13-63
+	android:exported
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml:47:13-52
+uses-sdk
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a14105437c28665c85d041980d4b9c2a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a14105437c28665c85d041980d4b9c2a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3650ec8bf0dcc8ccaa9d86d2cec22c9f/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3650ec8bf0dcc8ccaa9d86d2cec22c9f/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4a8d9fc7497257d3eea1abab609049a/jetified-play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4a8d9fc7497257d3eea1abab609049a/jetified-play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/482e594264ff39595e95df645d7177dd/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/482e594264ff39595e95df645d7177dd/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/77edcd2496df4ed958bccc8cbce10754/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/77edcd2496df4ed958bccc8cbce10754/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be6327719512c19af6e3dfcc948c3a09/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be6327719512c19af6e3dfcc948c3a09/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5f96ecad8d85f531f78d30240d597c0f/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5f96ecad8d85f531f78d30240d597c0f/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1c90e9da5765c388c5f568664246206e/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1c90e9da5765c388c5f568664246206e/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/26eb95a4fc091e00cdb4bced7ab5f555/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/26eb95a4fc091e00cdb4bced7ab5f555/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/578c5472239c06279cc0be6c610320b5/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/578c5472239c06279cc0be6c610320b5/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/fe0d271e4b17a9e967722c956db4b4ce/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/fe0d271e4b17a9e967722c956db4b4ce/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b9d97636f00495e1d50d8f368f85c06c/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b9d97636f00495e1d50d8f368f85c06c/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0c6138ad6fcbdbafc9fcddc814e806eb/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0c6138ad6fcbdbafc9fcddc814e806eb/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e80b8e64c867e1df103b751ba820433b/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e80b8e64c867e1df103b751ba820433b/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/286ec7e5a44c505253cbe8d75be4a6aa/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/286ec7e5a44c505253cbe8d75be4a6aa/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f60f066c77498424681d75d7dd781ac9/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f60f066c77498424681d75d7dd781ac9/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a97ba8d2d79569ee2682d64bb0d70aeb/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a97ba8d2d79569ee2682d64bb0d70aeb/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ae4773bd7af16468b47f6928c90e4473/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ae4773bd7af16468b47f6928c90e4473/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/46601fde9a4dbf63d5eef02dba2afc66/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/46601fde9a4dbf63d5eef02dba2afc66/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4ef29f05697ced154def49b131ed3d17/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4ef29f05697ced154def49b131ed3d17/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/34ef277219ad37ea6c0d7e014585708d/jetified-play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/34ef277219ad37ea6c0d7e014585708d/jetified-play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4a2f1abbd97892e016f5050368b2ab62/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4a2f1abbd97892e016f5050368b2ab62/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5fca1c0f1f369c94569bd7f788aa5c65/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5fca1c0f1f369c94569bd7f788aa5c65/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d6cd0d04a3b0fd0832e6501c32e4269a/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d6cd0d04a3b0fd0832e6501c32e4269a/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9fb9a1784b5664376fd4273cf5d7005/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/de513baf12422ee134cf2e72512681a8/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/66518e42feabc1223926e950d50c8cac/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/66518e42feabc1223926e950d50c8cac/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f6fa462fc8f159ea58a9bdc5dbe1b236/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f6fa462fc8f159ea58a9bdc5dbe1b236/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7fc160e01a1c107434eeba8bab364217/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7fc160e01a1c107434eeba8bab364217/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b13ea7523dc9e84319d8a770e7f760e6/jetified-play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b13ea7523dc9e84319d8a770e7f760e6/jetified-play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0d4267eb53093ef64eeb2015fb3a07a1/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0d4267eb53093ef64eeb2015fb3a07a1/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a0497a81403b8b3430adf247d510f1f/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a0497a81403b8b3430adf247d510f1f/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd3e762940c2b397c3536fa187a395cc/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0761e657e80e7ce1b855367fa55330dc/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0761e657e80e7ce1b855367fa55330dc/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ca90cd9ef25d7acee3b1653dbd74c84c/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ca90cd9ef25d7acee3b1653dbd74c84c/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/004e315da9c779e955e60cff7f4e661a/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/004e315da9c779e955e60cff7f4e661a/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4ff8f25d3ead3dc13cc7fe69012f22fb/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4ff8f25d3ead3dc13cc7fe69012f22fb/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f23e41387a6305ea5302243c00a4c19b/jetified-play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f23e41387a6305ea5302243c00a4c19b/jetified-play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/496362d66499aff289319fb91894a9fc/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/496362d66499aff289319fb91894a9fc/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dff9b169d011d6471b0019e9d38b4f4c/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f2bebeca849b3c1fc0bf348a9d3c5482/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f2bebeca849b3c1fc0bf348a9d3c5482/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/57941165eb45b5056999638e010b182f/recyclerview-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/57941165eb45b5056999638e010b182f/recyclerview-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/96f63f4306f0fc56c140d73176dc3310/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/96f63f4306f0fc56c140d73176dc3310/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dee56812972f65c48f33f011a0d23568/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/dee56812972f65c48f33f011a0d23568/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e66fdbb8aadd34180980691833492b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e66fdbb8aadd34180980691833492b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/08aad4ca8852cd8ade9fc95f553f0f72/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/08aad4ca8852cd8ade9fc95f553f0f72/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/78ecae9c2f22493c6a91e24a1a2d4820/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/78ecae9c2f22493c6a91e24a1a2d4820/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd02317c23e662d0fa4ab88d0d0916d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cd02317c23e662d0fa4ab88d0d0916d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/10fcddba391b31bd86d702ee5aeb2035/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/10fcddba391b31bd86d702ee5aeb2035/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2833ccf74467ed201bb9e8973fbcecdb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2833ccf74467ed201bb9e8973fbcecdb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a22b9bda8912dc5b60b669716d09acf1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a22b9bda8912dc5b60b669716d09acf1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8f5491109a096d1303429a23551cdf50/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8f5491109a096d1303429a23551cdf50/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1352209ffe6d7d5b9f9bddb35648d9f5/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1352209ffe6d7d5b9f9bddb35648d9f5/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/54972eed75d5a0ae7261aba7ffc821e2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/54972eed75d5a0ae7261aba7ffc821e2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/93091c25d5713cca58ce2e2ecdac42b4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/93091c25d5713cca58ce2e2ecdac42b4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/395caf503a19363977c06465a7c114a5/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/395caf503a19363977c06465a7c114a5/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f21ecb78568f62b9cfdf7ce8b84f47c1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/f21ecb78568f62b9cfdf7ce8b84f47c1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/054204406b27658dc74d8b19f547bed5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/054204406b27658dc74d8b19f547bed5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6e0bbf23856e3e10e3514a4e9cc95fa1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6e0bbf23856e3e10e3514a4e9cc95fa1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6a6af4ea2fadaa66c773f3ffe79910a7/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6a6af4ea2fadaa66c773f3ffe79910a7/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/abfb1986835d7863ad588927944dd5ef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/abfb1986835d7863ad588927944dd5ef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/88958e78a03a39da36d379d2c8b6a4b0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/88958e78a03a39da36d379d2c8b6a4b0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69cec304f6f93988bc61590e41b76c7a/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69cec304f6f93988bc61590e41b76c7a/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/85d7d375805835315d32868681799c7f/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/85d7d375805835315d32868681799c7f/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b5f0cd7358534287e1185d5c23885344/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b5f0cd7358534287e1185d5c23885344/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52f3c377a4b69341a37326e040da9d22/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52f3c377a4b69341a37326e040da9d22/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e0385bf69412b0fd2b98f32f2bf58140/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e0385bf69412b0fd2b98f32f2bf58140/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cf710c486307a9e618e093e5dc47c585/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cf710c486307a9e618e093e5dc47c585/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4af59dab4eee59f36ceae83cd2649258/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4af59dab4eee59f36ceae83cd2649258/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a3453ebd6e237a41391e775e2c9f572/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/2a3453ebd6e237a41391e775e2c9f572/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9c1b62603e7cbe3d3343236d07c67d22/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9c1b62603e7cbe3d3343236d07c67d22/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6c159ea9dcd38289afa0f2ab81b30d54/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6c159ea9dcd38289afa0f2ab81b30d54/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/161180bc3e377750d0db2f3902c1a204/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/161180bc3e377750d0db2f3902c1a204/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3973b822319074ab89b7d95ad71eb6ba/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3973b822319074ab89b7d95ad71eb6ba/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5749ad77f2bf083f9f80a0bf74aad4c2/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5749ad77f2bf083f9f80a0bf74aad4c2/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5df141bd37f02a6bc1c13ab0823af174/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5df141bd37f02a6bc1c13ab0823af174/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/db3dba1d0128985fd5548afddb89b003/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/db3dba1d0128985fd5548afddb89b003/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be327228a71e2fb1205900d66556b519/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/be327228a71e2fb1205900d66556b519/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d611674a4439cf7d022ef8a36029a9f0/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d611674a4439cf7d022ef8a36029a9f0/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69b148e08770714baf9bebb0dde766d5/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/69b148e08770714baf9bebb0dde766d5/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/822f0a90a03298addbe1c6753b752bee/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/822f0a90a03298addbe1c6753b752bee/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5a66a25bf3b57bde587f6ccb091db63f/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5a66a25bf3b57bde587f6ccb091db63f/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/79afbf59e162243652f3e5de6c0caaa4/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/79afbf59e162243652f3e5de6c0caaa4/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d73603f0f5a6266b403311d088487de8/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d73603f0f5a6266b403311d088487de8/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bfa6652a68082d0fc2d621b35cf4ff72/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/bfa6652a68082d0fc2d621b35cf4ff72/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4cd5c087c421aa24646fba1df8c5d17b/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/4cd5c087c421aa24646fba1df8c5d17b/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/40f8655b341380c7a1a8cce2c9338fdc/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/40f8655b341380c7a1a8cce2c9338fdc/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0a84e31e032eb1f6e237e09f210ea7ef/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0a84e31e032eb1f6e237e09f210ea7ef/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7978b726644f8af6a955357bdee92b2a/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/7978b726644f8af6a955357bdee92b2a/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e2fc0552c98eb608f63432d90fbcda88/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/e2fc0552c98eb608f63432d90fbcda88/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4de5cd8237f11589a6a2e21930831eb/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c4de5cd8237f11589a6a2e21930831eb/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9631ee3821f5fe5efbdeeb5204d24d5b/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9631ee3821f5fe5efbdeeb5204d24d5b/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/eecd0422b679e1e56c8c015702deddd1/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/eecd0422b679e1e56c8c015702deddd1/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/815c1656404324a8712b529fbfcccef7/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/815c1656404324a8712b529fbfcccef7/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52371c0695e1921305ed52b15c776253/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/52371c0695e1921305ed52b15c776253/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c821722599bcf5953e8724a3749ae248/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c821722599bcf5953e8724a3749ae248/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d51e75bf445449c059dcdb68f9cbf631/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d51e75bf445449c059dcdb68f9cbf631/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0fe0c71926d69df5b086cb9331a3300c/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0fe0c71926d69df5b086cb9331a3300c/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d0f145acb7e6d811028d4e49e8ea6759/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d0f145acb7e6d811028d4e49e8ea6759/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ce6e913fd2f77d83aa9ef9747230502b/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ce6e913fd2f77d83aa9ef9747230502b/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3c40ad944d6b275796b981cff87725a8/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3c40ad944d6b275796b981cff87725a8/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cede4390d121398ab4b8b92b5684521e/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/cede4390d121398ab4b8b92b5684521e/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8336008f2029ccd4b9b45f5af4ea83e2/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8336008f2029ccd4b9b45f5af4ea83e2/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8b8006d12923e71a127697f544fb82a0/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8b8006d12923e71a127697f544fb82a0/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e7e6fd075773e0498f8551c54b93782/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3e7e6fd075773e0498f8551c54b93782/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ee1264a3b2c2bfc111949a595c2ebf89/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/ee1264a3b2c2bfc111949a595c2ebf89/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6ef082605c4da700992685cb3792b05f/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6ef082605c4da700992685cb3792b05f/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3391296b6bd2f6d29a8e90560e3c87af/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3391296b6bd2f6d29a8e90560e3c87af/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/17c5fc1a25cb3f9580033b0b261337b5/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/17c5fc1a25cb3f9580033b0b261337b5/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9bbecc07fcfe86d48b956f112f6bb415/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/9bbecc07fcfe86d48b956f112f6bb415/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/df5536bc338fdd8fe5205a197b2c061c/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/df5536bc338fdd8fe5205a197b2c061c/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b298c1573b58f70630e2a2357398b064/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b298c1573b58f70630e2a2357398b064/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5f96ecad8d85f531f78d30240d597c0f/jetified-play-services-ads-12.0.1/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shuangpan/AndroidStudioProjects/MapDemo/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/878c398103ba0ef4305554509e568bb6/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/11c7483348d8857cad1fb960c90c73ed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/8c134bed5bc74f1389396258ebcd261b/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/1b1c2eab751da2adb04d8e787b7238c0/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/6200002d049606886a3611084c070aef/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/67a002a8863f8cd695ef449dc79db423/jetified-play-services-auth-12.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/845451c01611e58122305e29fb96aef7/jetified-firebase-auth-12.0.1/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/23e1659b6b43803bd23d0e0da732ecf9/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/d9f2233004c58ffe5ff1724f81a689fb/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/0bc81314c64f05d43da22d7e3ac9b04f/jetified-play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/b8207bcb3819bc51798e7cfd4028ac26/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.edu.sjsu.android.mapdemo
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/3ce42ca23924c9a1e69896a434fd9e63/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/aa42840e06a9b3abb2003836e866240c/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/c45735f536cb00e17d300256da4e69f2/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+permission#edu.sjsu.android.mapdemo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+uses-permission#edu.sjsu.android.mapdemo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:edu.sjsu.android.mapdemo
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+category#edu.sjsu.android.mapdemo
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/73184963027108d9b4550c6dd7310a32/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/shuangpan/.gradle/caches/transforms-2/files-2.1/5363bc29b63ee088142e0827848f290b/jetified-firebase-common-12.0.1/AndroidManifest.xml:9:13-77

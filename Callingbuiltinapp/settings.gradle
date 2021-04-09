@@ -1,0 +1,3 @@
+include ':mybrowser'
+include ':CallingApp'
+rootProject.name = "Callingbuiltinapp"

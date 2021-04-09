@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyContentProvider</string>
+    <string name="name">Name</string>
+    <string name="grade">Grade</string>
+    <string name="add_name">Add Name</string>
+    <string name="retrieve_students">Retrieve Students</string>
+    <string name="provider">edu.sjsu.android.mycontentprovider.College</string>
+    <string name="providerURL">content://edu.sjsu.android.mycontentprovider.College/students</string>
+</resources>

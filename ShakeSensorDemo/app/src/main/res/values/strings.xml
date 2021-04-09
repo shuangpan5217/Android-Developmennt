@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShakeSensorDemo</string>
+    <string name="header">Shake to get a toast and to switch color</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+</resources>

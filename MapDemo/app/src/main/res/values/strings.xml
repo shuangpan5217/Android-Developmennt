@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAXkpcrBMnqrTCu7lsHewpDQU_gHESo3Uo</string>
+    <string name="cs">CS</string>
+    <string name="university">University</string>
+    <string name="city">City</string>
+</resources>

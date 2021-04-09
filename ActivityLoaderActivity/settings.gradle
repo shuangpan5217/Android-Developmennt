@@ -1,0 +1,3 @@
+include ':mybrowser'
+include ':app'
+rootProject.name = "ActivityLoaderActivity"

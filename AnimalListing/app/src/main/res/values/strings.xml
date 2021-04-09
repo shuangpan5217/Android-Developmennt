@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimalListing</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="info">Information</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="animal">animal</string>
+    <string name="zoo_name">Shuang\'s Zoo</string>
+    <string name="call">Tel: 0123456789</string>
+</resources>

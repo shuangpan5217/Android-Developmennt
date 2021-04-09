@@ -1,0 +1,4 @@
+#Sun Sep 06 15:31:23 PDT 2020
+base.0=/Users/shuangpan/AndroidStudioProjects/Exercise1/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

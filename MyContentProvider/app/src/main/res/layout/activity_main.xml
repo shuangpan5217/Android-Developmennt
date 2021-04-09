@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name" />
+
+    <EditText
+        android:id="@+id/txtName"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:autofillHints="Name"
+        android:hint="@string/name"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/grade" />
+
+    <EditText
+        android:id="@+id/txtGrade"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:autofillHints="Name"
+        android:hint="@string/grade"
+        android:inputType="text"/>
+
+    <Button
+        android:text="@string/add_name"
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickAddName" />
+
+    <Button
+        android:text="@string/retrieve_students"
+        android:id="@+id/btnRetrieve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickRetrieveStudents" />
+</LinearLayout>
+
+
+
+
